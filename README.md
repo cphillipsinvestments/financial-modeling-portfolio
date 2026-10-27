@@ -1,28 +1,31 @@
-Financial-Modeling-Portfolio/
+# Chad Phillips, FMVA®
 
-├── README.md
+Financial Modeling | Valuation | Private Equity | Real Estate Analysis
 
-├── Public-Equity-Valuations/
-│   ├── Visa-DCF
-│   ├── Microsoft-Valuation
-│   └── Berkshire-Hathaway
+Welcome to my investment and financial modeling portfolio.
 
-├── Private-Equity-Models/
-│   ├── LBO-HVAC-Company
-│   ├── Search-Fund-Acquisition
-│   └── Manufacturing-LBO
+This repository showcases:
 
-├── Real-Estate-Models/
-│   ├── Multifamily-Acquisition
-│   ├── Hotel-Financial-Model
-│   └── Industrial-Warehouse
+- DCF Valuation Models
+- Three-Statement Models
+- LBO Models
+- Real Estate Acquisitions
+- Investment Memorandums
+- Industry Research Reports
 
-├── Investment-Memos/
-│   ├── Visa-Investment-Thesis
-│   ├── Prologis-Analysis
-│   └── Waste-Management
+Certifications:
+- FMVA®
+- Investment Banker Certification
+- Investment Banking & Private Equity Modeling
+- Commercial Real Estate Finance
 
-└── Industry-Research/
-    ├── Self-Storage
-    ├── Hospitality
-    └── Housing
+Skills:
+- Financial Modeling
+- Valuation
+- DCF Analysis
+- LBO Modeling
+- Investment Research
+- Excel
+
+LinkedIn:
+[Your LinkedIn URL]
