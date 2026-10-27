@@ -27,5 +27,5 @@ Skills:
 - Investment Research
 - Excel
 
-LinkedIn:
-[Your LinkedIn URL]
+LinkedIn:www.linkedin.com/in/chad-phillips-fmva®-a4775a188
+
